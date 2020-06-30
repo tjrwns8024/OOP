@@ -50,7 +50,7 @@ person2.play();
 
 UML에서는 아래와 같이 표현합니다. 
 
-![UML클래스 예](https://lh3.googleusercontent.com/proxy/EAE_m0tT-5aL3IAAuzpoMcvABK3HTgghrAfeE1YgHCe58kBK3jJQJlBnTxY6jf2L5OBU7cw9sWXj9sjb8NNVGihNos785j55rUp0Sb0kULMZgCX6fVOZMffSpvdRj7Lzqv_E_SAGsCeLThER3YmpTmm8bKYE97IqMwQvK_xLyDN_yNliz8qWkgpAWliIOYDl-1FBwEIdAUvTHB-XEitE8uyy6_Ed2kaK6fFaLFPwpD3oP6rqSdYtzznq50N755Xi01FCAm3272wa2BXmWrOLthqTgwJFgcqhOlz04FpR_ovqit_MFb829Q)
+![UML클래스 예](https://lh3.googleusercontent.com/proxy/bOoXVUhOyfcqk3G-dTHKD2m3eDF8W1sg1mlL4Rxvp2zZG203o98bhvhCkqF6q7gOemPHSCAgszaP3cj-rP6CMqRLCSpqh_efqgylH-nbVcFJM_aBjcCWCaBzJRQhtISEYkDLuFzrJXP1ix8XABRs56_cmBRYjklQIISiiqCqE4xVOzegKsyQT822Df6iBEn_XV1WWau8SW52UvvCY8obC1Tw0wuzbHmlP-831k5e9psfNl-r-mMhKLCwfoKan-fPDT_RLhSvN_zdZlK2wJbB5w5TRFmo7DR_afRK9HffIGsSus3dEXRoNw)
 
 - 가장 윗부분은 클래스 이름
 
@@ -62,7 +62,7 @@ UML에서는 아래와 같이 표현합니다.
 
 - 가시화란, 우리가 흔히 사용하는  접근 제어자라고 생각하면 쉬울 것 같습니다. 
 
-![가시화 접근 제어자](https://lh3.googleusercontent.com/proxy/2P8ITHstPj2VtakYvstbap63JdQeeGBe4Jyky_-Rchq3ul9CAO9uEN2KBxIqCSV3a9gGbGiXevoZMi-t4JQzdSt8-RsjVFSBc5gVFdx6hGC0-6iRTEqNtcLEed4_2uVqiEquM17B7Ddyrfu0iQb8i0VhsOXKnRaUuaVmmkZ8hsc06qhgowf1enRs0nD98AkcF5BoZcu2ur-rsLaQgrVtwDXNybQJsVC5JLIGfH4Pd9bWqZ_zVZP7hG2Qh1kVmJT-XdoT2-fECbkWrGAnOrVuSBFfTImNelzgdj2cWA)
+![가시화 접근 제어자](https://gmlwjd9405.github.io/images/class-diagram/access-controller.png)
 
 - 그러나 속성과 연산에 가시화 정보를 항상 표시해야하는 것은 아닙니다. 
 
@@ -77,7 +77,7 @@ UML에서는 아래와 같이 표현합니다.
 
 - 다수 클래스가 모인 시스템이 훨씬 효율적입니다. 
 
-![관계](https://lh3.googleusercontent.com/proxy/jf-Ds-OfU4ZiTNgLbtOiPAKjTrXcr-dFb3uWlngfm3LNxPuVgVDUNftfwKZIOsUvh6L_Pu_fTwhZgoqJGQUSqM16aG6iGihBifdPMD4mEknyHerAqxG8m1hGMvCdrulSSek5m90wFPTlJ8jnNqWq5zPgvNuJe-zR_4NA6den1X2Dc7-Ns--SoFvMO535PgeDl50jPQ4dblG54rKW_k87j67XY-cGZfPGKH4GMdEzoeks11kVALIOmyeMOOVxMzk_9sbh3_Iw9DMCoBrXWgIq9VWpT4PsdzZrzNX2vw)
+![관계](https://lh3.googleusercontent.com/proxy/7Y3OAg28Oslo7i5TnKTvPbefXtZ6PzjcTnKIhwlETmfwmJp2Llfz0909vqEPOqmAT-rmyrgdgZUTUHF3_ncAC8LQG48insQtFfwwSHAF6CjSS5bXbIDC_oJQK7ZH81Pa1oN_6vwhoWkVKRJb1pzkDFo-4hhNy3NZohw4KzCoCDCwkDdywZ0_NT-syjzOVS9RMDD5-byFERXoUAlDzvae4lmTQmSX9oc3c7qzv-9dr4hVx-L9kPz1dS_WpZFLsvL3bkWrunfhuWcxejgdJY-D_3JrfubC5yfypJCw5g)
 
 ### 연관 관계 
 
