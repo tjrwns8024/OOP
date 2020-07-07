@@ -14,3 +14,19 @@ Let's learn what object-oriented programming is.✏
 
 - [Object-oriented modeling](https://github.com/tjrwns8024/OOP/tree/master/01.%20Object-oriented%20modeling)
 - 객체지향 모델링에 대한 글을 작성하였습니다. 
+
+### **Object-oriented principle**
+
+- [Object-oriented principle](https://github.com/tjrwns8024/OOP/tree/master/02.%20Object-oriented%20principle)
+- 객체지향의 4대 특징에 대한 글을 작성하였습니다. 
+- 추상화, 캡슐화, 일반화, 다형성이 있습니다 
+
+### **SOLID**
+
+- [SOLID](https://github.com/tjrwns8024/OOP/tree/master/03.%20SOLID)
+- 객체지향의 solid 원칙에 관한 글을 작성하였습니다.
+- SRP, OCP, LSP, ISP, DIP 가 있습니다.
+
+
+--- 
+블로그를 보며 정리한 글입니다. 
