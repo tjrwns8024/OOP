@@ -143,7 +143,22 @@ Sample.Builder("tjrwns")
         .height(123)
         .build()
 ```
+### Android 빌더 패턴 예제
 
+Android에서는 `AlertDialog.Builder`를 사용합니다. 
+
+```kotlin
+AlertDialog.Builder ( this )
+  .setTitle ( " 계량 식 샌드위치 대화 상자" )
+  .setMessage ( "매운 머스타드를 사용하기위한 비유적인 메시지" )
+  .setNegativeButton ( "No thanks" , {dialogInterface, i->
+     // "No thanks"버튼을 클릭했습니다
+  })
+  .setPositiveButton ( "OK" , {dialogInterface, i->
+     // "확인"버튼이 클릭되었습니다
+  })
+    .보여주다()
+```
 ---
 출처
 - https://beomseok95.tistory.com/240
