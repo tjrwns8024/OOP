@@ -27,6 +27,10 @@ Let's learn what object-oriented programming is.✏
 - 객체지향의 solid 원칙에 관한 글을 작성하였습니다.
 - SRP, OCP, LSP, ISP, DIP 가 있습니다.
 
+### **Design Pattern**
 
+- [Design Pattern](https://github.com/tjrwns8024/OOP/tree/master/04.%20Design%20Pattern)
+- 창조, 구조, 행동 으로 나누어 디자인 패턴을 정리하였습니다.
+- 앞으로 더 채워 나갈 예정입니다. 
 --- 
-블로그를 보며 정리한 글입니다. 
+여러 블로그와 책을 보고 그 내용을 정리하였습니다.
