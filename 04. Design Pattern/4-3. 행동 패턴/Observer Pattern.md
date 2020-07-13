@@ -6,7 +6,7 @@
  
 - 즉, 객체의 **상태가 변경**되었을 때, **특정 객체에 의존하지 않으면서 상태의 변경을 관련된 객체들에게 통지**하는 것이 가능해집니다. 
 
-![ㅇ](https://lh3.googleusercontent.com/proxy/mcGedqj37XPHLk9I4mgTshLlvg_-lZ1g1vf6353-SkKHzem9MEQTxRnnPGdbvQ8tG8kNbP8tNGh29Oeo-LQ5cSOR3o0HXqveZFZTgkqBAZGQaR4Q5BHFYzNhiW0LMA)
+![ㅇ](https://miro.medium.com/max/3304/1*W0B2TW5Ekh8-bULK5MIvdA.jpeg)
 
 ## 1-2. 사용 예제
 
